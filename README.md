@@ -65,7 +65,7 @@ It is a web-app that provides forms to submit travel reviews,guide information a
 ![Screenshot 2024-06-15 232120](https://github.com/piyush1061/Projecthillmitr/assets/122090715/326377c8-0a3c-4474-91a3-ca678d82bbc0)
 ![Screenshot 2024-06-15 232207](https://github.com/piyush1061/Projecthillmitr/assets/122090715/77f9153f-38bc-4ec0-8c38-5cb5ffa5e46b)
 ![Screenshot 2024-06-15 232253](https://github.com/piyush1061/Projecthillmitr/assets/122090715/b7e32e3d-0558-426b-80a1-53c92cbfc85e)
-<img width="956" alt="Screenshot 2024-06-15 23225" src="https://github.com/piyush1061/Projecthillmitr/assets/122090715/f95068a8-5afa-48a2-9f20-5fc80c209ec7">
+
 ![Screenshot 2024-06-15 232420](https://github.com/piyush1061/Projecthillmitr/assets/122090715/a50e80aa-9a57-4dd9-91a6-bb79e3820334)
 ![Screenshot 2024-06-15 232709](https://github.com/piyush1061/Projecthillmitr/assets/122090715/3fe311ee-cc1b-4ad6-b3b3-a0b2bc458ef5)
 ![Screenshot 2024-06-15 23
