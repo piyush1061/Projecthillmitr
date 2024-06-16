@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Shimla",
+    "latitude": 31.104605,
+    "longitude": 77.173424
+  },
+  {
+    "name": "Manali",
+    "latitude": 32.243187,
+    "longitude": 77.189176
+  },
+  {
+    "name": "Dharamshala",
+    "latitude": 32.219042,
+    "longitude": 76.323403
+  },
+  {
+    "name": "Dalhousie",
+    "latitude": 32.533515,
+    "longitude": 75.976642
+  },
+  {
+    "name": "Kasauli",
+    "latitude": 30.902898,
+    "longitude": 76.964145
+  },
+  {
+    "name": "Kullu",
+    "latitude": 31.957896,
+    "longitude": 77.109540
+  },
+  {
+    "name": "Chail",
+    "latitude": 30.971383,
+    "longitude": 77.183737
+  },
+  {
+    "name": "Solan",
+    "latitude": 30.909965,
+    "longitude": 77.104253
+  },
+  {
+    "name": "Mcleodganj",
+    "latitude": 32.242956,
+    "longitude": 76.321259
+  },
+  {
+    "name": "Spiti Valley",
+    "latitude": 32.250495,
+    "longitude": 78.002189
+  }
+]

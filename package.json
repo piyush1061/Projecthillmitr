@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
