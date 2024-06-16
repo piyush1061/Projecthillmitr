@@ -1,6 +1,5 @@
-
-
-
+## HILLMITR
+It is a web-app that allows use the provided forms to submit travel reviews,guide information and view suggestions for treks and hill stations.
 
 ## Installation
 
@@ -61,4 +60,5 @@
 - Open your browser and navigate to `http://localhost:<your-frontend-port>` to view the application.
 - Use the provided forms to submit travel reviews and view suggestions for treks and hill stations.
 
+## Snapshots
 
