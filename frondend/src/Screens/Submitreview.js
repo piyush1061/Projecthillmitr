@@ -25,7 +25,7 @@ const SubmitReview = () => {
       body: JSON.stringify(form),
     });
     if (response.ok) {
-      navigate("/postreview");
+      navigate("/reviews");
     } else {
       alert("Your form was not submitted");
     }
