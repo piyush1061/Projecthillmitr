@@ -9,7 +9,7 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const getWeatherData = async (latitude, longitude, retryCount = 0) => {
   const fetch = await import("node-fetch").then((mod) => mod.default);
-  const url = `https://api.tomorrow.io/v4/weather/forecast?location=${latitude},${longitude}&apikey=j2eQUMIpWNhJD8qSDbn8RZzxfVaMba5E`;
+  const url = `https://api.tomorrow.io/v4/weather/forecast?location=${latitude},${longitude}&apikey=${API_KEY}`;
   const response = await fetch(url);
 
   if (response.status === 429 && retryCount < 3) {
