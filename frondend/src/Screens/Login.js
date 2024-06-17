@@ -32,7 +32,7 @@ const Login = () => {
       if (json.success) {
         localStorage.setItem("token", json.authToken);
         localStorage.setItem("email", credentials.email);
-        localStorage.setItem("userName", json.user.name.split(" ")[0]); // Store the first word of the name
+        localStorage.setItem("userName", json.nowName.split(" ")[0]); // Store the first word of the name
         setMessage("Logged in successfully");
         navigate("/"); // Navigate to home page
       } else {
