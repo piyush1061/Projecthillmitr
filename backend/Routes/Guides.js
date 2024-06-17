@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const Guide = require("../models/Guide");
 
-// Route to get all guides
+
 router.get("/", async (req, res) => {
   try {
     const guides = await Guide.find();
